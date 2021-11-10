@@ -10,10 +10,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@aws-amplify/cli": "^6.3.1",
+    "@react-native-async-storage/async-storage": "^1.15.11",
+    "@react-native-community/netinfo": "^6.1.0",
     "@react-navigation/bottom-tabs": "^6.0.9",
     "@react-navigation/material-top-tabs": "^6.0.6",
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^6.0.11",
+    "amazon-cognito-identity-js": "^5.2.3",
+    "aws-amplify": "^4.3.5",
+    "aws-amplify-react-native": "^5.0.5",
     "react": "17.0.2",
     "react-native": "0.66.1",
     "react-native-gesture-handler": "^1.10.3",
